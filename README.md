@@ -20,7 +20,7 @@ If you think that these can be improved in any way, please do suggest.
 
 ## Rust engineer with cross-platform (iOS, WebAssembly)
 
-### Onboarding Plan (for Beginners)
+### Onboarding Plan
 
 * Week 1 ~ 2: Learn base knowledge (Rust programming language)
   * Week 1
