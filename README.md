@@ -113,6 +113,7 @@ If you think that these can be improved in any way, please do suggest.
   * [Book: The Rust Programming Language](http://www.yes24.com/Product/Goods/83075894)
   * [Book: Rust in Action](https://www.manning.com/books/rust-in-action)
   * [Book: Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+  * [Rust-101 by Ralf Jung](https://www.ralfj.de/projects/rust-101/main.html)
 * Intermediate
   * [The Standard Library](https://doc.rust-lang.org/std/index.html)
   * [The Edition Guide](https://doc.rust-lang.org/edition-guide/index.html)
